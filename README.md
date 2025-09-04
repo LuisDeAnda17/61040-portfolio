@@ -5,9 +5,9 @@ This will be your portfolio repository. Use this as a [template repository](http
 *My name is Luis De Anda, I'm a undergraduate at MIT, studying 6-3, and it's very nice to meet you! I enjoy playing video games, mostly Warframe and Mario Kart, and a big fan of the Jurrasic Park films and Godzilla franchise. 
 
 Some fun facts about me:
-1. I love Carne Asadas.
+1. I enjoy Carne Asadas.
 2. My favorite dinosaur is the Ankylosaurus
-3. I enjoy playing with my Chihuahua.
+3. I love my Chihuahua.
 
 ![picture of snow leopard mama and baby](Image_Folder/image.png?format=jpg&name=4096x4096)
 
