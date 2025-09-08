@@ -9,7 +9,7 @@ Some fun facts about me:
 2. My favorite dinosaur is the Ankylosaurus
 3. I love my Chihuahua.
 
-![picture of snow leopard mama and baby](Image_Folder/image.png?format=jpg&name=4096x4096)
+![picture of my baby](Image_Folder/image.png?format=jpg&name=4096x4096)
 
 
 # Table of Contents
