@@ -32,23 +32,23 @@ From here, I'll be discussing different problems I considered from the highlight
 ### Problems Considered
 
 #### Scheduling Homework (Classwork): 
-    Scheduling times to do homework would be a useful feature for students. Allowing them to manage their time with greater ease. I excluded this problem due to the insufficient differentiation from other event organizers like google calender. Additionally, people would likely be indifferent due to having to be flexible with times as sudden events can occur. 
+Scheduling times to do homework would be a useful feature for students. Allowing them to manage their time with greater ease. I excluded this problem due to the insufficient differentiation from other event organizers like google calender. Additionally, people would likely be indifferent due to having to be flexible with times as sudden events can occur. 
     
 
 #### Remembering Class Lecture Times(Classwork):
-    Remebering the time for lecture would help students in their daily lives by giving them specific times to attend lecture. Similarly, this was excluded due to the insufficient differentiation from other event organizers like google calender.
+Remebering the time for lecture would help students in their daily lives by giving them specific times to attend lecture. Similarly, this was excluded due to the insufficient differentiation from other event organizers like google calender.
 
 #### Managing Kitchen Ingredients (Community Management):
-    Within my community, managing the kitchen ingredients would allow for easier creation of grocery lists and making sure each cooking team gets the correct ingredients at the right amount. However, this problem was not considered further due to the effects indifference would have. It would require work from cooking teams and grocery buyers to manage ingredient levels and if some people forget or care not for updating the amount of ingredients to whole system would fail. This could also be considered an impact from a lack of critical mass.
+   Within my community, managing the kitchen ingredients would allow for easier creation of grocery lists and making sure each cooking team gets the correct ingredients at the right amount. However, this problem was not considered further due to the effects indifference would have. It would require work from cooking teams and grocery buyers to manage ingredient levels and if some people forget or care not for updating the amount of ingredients to whole system would fail. This could also be considered an impact from a lack of critical mass.
 
 #### Managing Saves (Community Management):
-    In my community, we have a 'save system' where a person could ask for a food save to eat later in case they cannot arrive to dinner. However, the current system can be chaotic as a flood of messages with different wordings can confuse the cooking team. This idea was excluded as implementing a system to manage the saves could be met with indifference from people, and they would continue to send a flood of messages. This system would only create more chaos if met with indifference.
+   In my community, we have a 'save system' where a person could ask for a food save to eat later in case they cannot arrive to dinner. However, the current system can be chaotic as a flood of messages with different wordings can confuse the cooking team. This idea was excluded as implementing a system to manage the saves could be met with indifference from people, and they would continue to send a flood of messages. This system would only create more chaos if met with indifference.
 
 #### Finding reliable Carpool Riders (Carpooling): 
-    This essentially refers to rating other people who you carpool with in an attempt to improve reliability when carpooling. This was swiftly excluded as it would recieve a serious amount of backlash from people who would not want to be rated. Additionally, it could have the unintended consequence of being another avenue of online bullying.
+   This essentially refers to rating other people who you carpool with in an attempt to improve reliability when carpooling. This was swiftly excluded as it would recieve a serious amount of backlash from people who would not want to be rated. Additionally, it could have the unintended consequence of being another avenue of online bullying.
 
 #### Fair cost division (Carpooling):
-    When carpooling, it all ends up coming down to the issue of splitting the cost, but some people are more reluctanct to pay, especially after the service has been provided. This issue was excluded due to the issues of overambition as asking people to offer the payment to a third-party creates a feeling of distrust. 
+   When carpooling, it all ends up coming down to the issue of splitting the cost, but some people are more reluctanct to pay, especially after the service has been provided. This issue was excluded due to the issues of overambition as asking people to offer the payment to a third-party creates a feeling of distrust. 
 
 
 ### Focus Problems
