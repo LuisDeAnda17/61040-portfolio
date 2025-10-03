@@ -145,6 +145,6 @@ I would like to introduce BrontoBoard - Sometimes you need a brontosaurus view t
 Each concept plays a major role in provide users with a platform organizing their work. The BrontoBoard concept is the heart of the app. It does the key work of creating a unique, general board for each user, and it sets up the framework for the classes. The Workcalendar concept is what manages the user's calendar for use in providing a different view of when assignments are due. The WorkExpirer concept will clear the workload that was already due to clean up the data the user should focus on. The UserAuthentication concept will distinguish each user, allowing each user to personalize their boards to their needs.
 
 ## UI Sketches
-![picture of my UI Sketches](assets/UISketches.png?format=jpg&name=4096x4096)
+![picture of my UI Sketches](../assets/UISketches.png?format=jpg&name=4096x4096)
 
 ## User Journey
