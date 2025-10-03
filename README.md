@@ -13,7 +13,7 @@ Some fun facts about me:
 
 
 # Table of Contents
-- [Link to Assignment 1](assignments/assignment1.md)
-- [Link to Problem Set 1: Reading and Writing Concepts](assignments/Pset1.md)
-- [Link to Problem Set 2: Composing Concepts](assignments/Pset2.md)
-
+- [Link to Assignment 1](assignments/assignment1.md)  
+- [Link to Problem Set 1: Reading and Writing Concepts](assignments/Pset1.md)  
+- [Link to Problem Set 2: Composing Concepts](assignments/Pset2.md)  
+- [Link to Assignment 2: Functional Design](assignments/Assignment2.md)  
